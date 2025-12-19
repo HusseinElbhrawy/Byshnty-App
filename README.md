@@ -1,18 +1,20 @@
 
 # 📌 Byshnty | بيشنتي
 بيشنتي – Patienti
-تطبيق مبتكر في مجال طب الأسنان يسهّل الربط بين طلاب وأطباء الأسنان وبين المرضى الباحثين عن علاج مناسب بأسعار رمزية أو مجاناً.
 
-👨‍⚕️ للطلاب والأطباء:
-• الحصول على مرضى حقيقيين بالقرب من موقع كليتك.
-• اختيار الحالات حسب نوع العلاج (تنظيف، حشوة، قلع، تعويض).
+An innovative application in the field of dentistry that facilitates the connection between dental students and doctors and patients seeking appropriate treatment at nominal prices or for free.
 
-**Key Features**
-- ✨ Feature 1
-- ✨ Feature 2
-- ✨ Feature 3
-- ✨ Feature 4
-- ✨ Feature 5
+👨‍⚕️ For students and doctors:
+• Obtaining real patients near your faculty location.
+• Selecting cases according to the type of treatment (cleaning, filling, extraction, prosthesis).
+
+**Key Features** 
+- Auth (Login - Register - Verify Account , OTP Validation - Reset Password - Update Password - Profile - Edit Profile)
+- OTP
+- Notification
+- Upload Case Image
+- Doctor Select Case 
+- Payment Gateway
 
 ---
 
