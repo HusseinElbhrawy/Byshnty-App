@@ -16,15 +16,6 @@
 
 ---
 
-## 🛠 Technologies Used
-
-- **Frontend**: Flutter (Cross-platform for iOS & Android)
-- **Backend**: [e.g., Firebase / Node.js / Laravel – specify what you used]
-- **Database**: [e.g., Firestore / MySQL]
-- **Payments**: [e.g., Stripe / In-app purchases]
-- **Other**: Real-time communication (e.g., WebSocket / Firebase Cloud Messaging)
-
----
 
 ## 🎨 App Screenshots (Mockups / Live)
 
