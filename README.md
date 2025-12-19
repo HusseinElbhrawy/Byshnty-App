@@ -1,6 +1,5 @@
 
 # 📌 Byshnty | بيشنتي
-بيشنتي – Patienti
 
 An innovative application in the field of dentistry that facilitates the connection between dental students and doctors and patients seeking appropriate treatment at nominal prices or for free.
 
