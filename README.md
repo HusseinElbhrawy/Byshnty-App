@@ -19,6 +19,34 @@
 
 ## 🎨 App Screenshots (Mockups / Live)
 
+### المريض
+
+
+<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px 0;">
+
+
+
+
+ 
+</div>
+  <img src="https://github.com/user-attachments/assets/8a45a018-1930-4abe-8293-86b8736a5de2" alt="Screenshot 6" width="300" height="600" style="flex-shrink: 0; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="https://github.com/user-attachments/assets/0ea99ca9-00cc-49bc-8c0d-d3a293141a35" alt="Screenshot 6" width="300" height="600" style="flex-shrink: 0; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+
+  <img src="https://github.com/user-attachments/assets/336606b9-c7e4-4547-9163-097f0ec47814" alt="Screenshot 6" width="300" height="600" style="flex-shrink: 0; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <img src="https://github.com/user-attachments/assets/44571859-e6f9-48dd-8efa-6810d507c597" alt="Screenshot 1" width="300" height="600" style="flex-shrink: 0; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="https://github.com/user-attachments/assets/46b1b69f-aa75-4cd5-80a4-6c545128c093" alt="Screenshot 2" width="300" height="600" style="flex-shrink: 0; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <img src="https://github.com/user-attachments/assets/f3d9e918-be94-473c-a706-09ade37412e0" alt="Screenshot 3" width="300" height="600" style="flex-shrink: 0; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+          <img src="https://github.com/user-attachments/assets/b3fb2c2b-0769-4d10-9d95-7f155870db95" alt="Screenshot 4" width="300" height="600" style="flex-shrink: 0; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+           <img src="https://github.com/user-attachments/assets/a21a1fb2-ee16-4c53-8085-77b8315db59e" alt="Screenshot 5" width="300" height="600" style="flex-shrink: 0; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="https://github.com/user-attachments/assets/dcde45da-37c9-4d42-bfe5-b68da9652706" alt="Screenshot 6" width="300" height="600" style="flex-shrink: 0; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+</div>
+
+---
+
+
+
+### الطبيب  
+
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px 0;">
   <img src="IMAGE_URL_HERE" alt="Screenshot 1" width="300" height="600" style="flex-shrink: 0; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   <img src="IMAGE_URL_HERE" alt="Screenshot 2" width="300" height="600" style="flex-shrink: 0; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
