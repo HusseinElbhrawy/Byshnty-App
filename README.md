@@ -47,7 +47,7 @@ An innovative application in the field of dentistry that facilitates the connect
 | Platform    | Status                         | Link                                                                                                                                                                                                        |
 |-------------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Google Play | **Live**🚀 | <a href="https://play.google.com/store/apps/details?id=com.bandtech.byshnty"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200" height="60" /></a> |
-| App Store   | _Coming-soon_ ⌛ | <a href="#"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="200" height="60" /></a>    |
+| App Store   |  **Live**🚀 | <a href="https://apps.apple.com/us/app/%D8%A8%D9%8A%D8%B4%D9%86%D8%AA%D9%8A/id6751917328"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="200" height="60" /></a>    |
 
 ---
 
